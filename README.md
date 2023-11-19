@@ -1,6 +1,10 @@
 # AliceHacks-Proof-of-Concept
-Proof of concept for alicehacks project.
+Proof of concept and mockup for alicehacks project.
 
+Mockup:
+This is what the design of the website would look like.
+
+Proof of concept:
 Please run this in a python 3.11.6 virtual environment, and download all necessary packages before running. Instructions are in comments
 
 There are many limitations to the ai model used. It is advised to used openai's gpt-4 model, but I'm too broke for that
